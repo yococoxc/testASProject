@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="moreLists">
+        <item>公司简介</item>
+        <item>登录官网</item>
+        <item>一键联系</item>
+        <item>清理缓存</item>
+        <item>用户指南</item>
+        <item>一键分享</item>
+        <item>经销商管理</item>
+    </string-array>
+</resources>
